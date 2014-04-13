@@ -1,0 +1,21 @@
+h1 {
+	text-shadow: 2px 2px 0px #202020, -2px 0px 0px #606060;
+	color: #505050;
+	font-size: 7em;
+	font-weight: bold;
+	text-align: center;
+	font-family: 'Audiowide', cursive;
+	margin: 0.5em 0;
+}
+
+.no-padding {
+	padding: 0px;
+}
+
+.loader {
+	opacity: 0.5;
+	font-size: 30em;
+	position: absolute;
+	left: 5%;
+	top: 5%;
+}
